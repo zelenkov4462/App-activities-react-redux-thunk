@@ -1,0 +1,38 @@
+%button-share {
+  border: 1px solid teal;
+  border-radius: 16px;
+  padding: 10px 15px;
+  margin: 10px;
+  min-width: 5rem;
+
+  &:focus {
+    background: limegreen;
+  }
+
+  &:active {
+    color: white;
+  }
+}
+
+.typeActivity  {
+  @extend %button-share;
+  background: darkorange;
+}
+
+.next {
+  @extend %button-share;
+  background: darkgoldenrod;
+}
+
+.favorite {
+  @extend  %button-share;
+  background: brown;
+
+  &:focus {
+    background: brown;
+  }
+
+  &:active {
+    background: aqua;
+  }
+}

@@ -1,0 +1,28 @@
+h1 {
+  text-align: center;
+}
+
+.cardForm {
+  border: 1px solid orange;
+  border-radius: 16px;
+  padding: 10px 15px;
+  width: 100%;
+  max-height: 30rem;
+  //display: flex;
+  //flex-direction: column;
+}
+
+.cardFormContent {
+  border: 2px solid orange;
+  border-radius: 25px;
+  padding: 10px;
+  text-align: center;
+  width: 50%;
+  margin: 1rem auto;
+  background: limegreen;
+}
+
+.btnNext {
+  display: flex;
+  justify-content: center;
+}

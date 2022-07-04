@@ -1,0 +1,16 @@
+.navbar {
+  margin: 2rem auto;
+  border: 2px solid greenyellow;
+  border-radius: 40px;
+  width: 100%;
+  min-height: 5rem;
+  padding: 20px;
+}
+
+.navbarContent {
+  height: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+
+}
