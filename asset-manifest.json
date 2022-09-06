@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/App-activities-react-redux-thunk/static/css/main.6726a0f9.css",
+    "main.js": "/App-activities-react-redux-thunk/static/js/main.ad4d0ca5.js",
+    "index.html": "/App-activities-react-redux-thunk/index.html",
+    "main.6726a0f9.css.map": "/App-activities-react-redux-thunk/static/css/main.6726a0f9.css.map",
+    "main.ad4d0ca5.js.map": "/App-activities-react-redux-thunk/static/js/main.ad4d0ca5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6726a0f9.css",
+    "static/js/main.ad4d0ca5.js"
+  ]
+}
